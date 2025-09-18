@@ -10,6 +10,9 @@ Metodología:
 3.- Se investigó la calidad de diferentes modelos cambiando los hiperparámetros. 
 4.- Se comprobó la calidad del modelo usando el conjunto de prueba.
 
+Tecnologías:
+Python | Scikit-learn | Pandas
+
 Resultado:
 Se desarrolló un modelo con la mayor exactitud posible. En este proyecto, el umbral de exactitud es 0.75.
 
